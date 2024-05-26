@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(14,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(18,87): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(33,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(50,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(54,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(55,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(59,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(92,2): error C2146: syntax error: missing ';' before identifier 'glVertex3f'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(162,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(162,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(162,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(201,45): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(330,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(330,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(357,9): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(423,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(485,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(507,10): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(512,10): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\a4tec\OneDrive\Masaüstü\210401024\MyGame\main.cpp(517,9): warning C4305: '=': truncation from 'double' to 'GLfloat'
